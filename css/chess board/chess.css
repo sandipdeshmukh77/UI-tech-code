@@ -1,0 +1,22 @@
+td{
+  height:50px;
+  width:50px;
+}
+td:hover{
+
+  border:1px solid red;
+}
+.white{
+  background: white;
+}
+.black{
+  background: black;
+}
+table{
+  border: 5px red solid;
+  margin: auto;
+}
+h1{
+  font-family:impact;
+  text-align: center;
+}

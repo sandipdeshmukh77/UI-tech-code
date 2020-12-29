@@ -1,0 +1,13 @@
+body{
+padding-top: 80px;
+}
+.navbar{
+  background: cyan;
+}
+.navbar a{
+  color: black;
+}
+.container .jumbotron{
+  background:#88d143;
+  color: white;
+}

@@ -1,0 +1,44 @@
+.text{
+  text-align: center;
+  padding-top: 15%;
+}
+.bg{
+  background: #83e835;
+}
+.navbar a{
+  color: white;
+}
+body{
+  background:url("https://image.freepik.com/free-photo/blured-factory-meeting-business-background-manufacturing-industry-engineering_38810-2416.jpg");
+  background-size: cover;
+  background-position:center;
+  background-repeat: no-repeat;
+}
+
+#t1{
+  color:red;
+  font-size: 7rem;
+  font-weight: 900;
+  font-family:black;
+}
+#t2{
+  font-size: 3rem;
+  color: yellow;
+  font-weight: 500;
+  font-family: calibri;
+}
+hr{
+  width: 900px;
+
+}
+#cb{
+  width:200px;
+  height:100px;
+  border-radius: 25px;
+  background-color:#3ffce9;
+  font-size: 4rem;
+  font-family:calibri;
+}
+html{
+  height:100%;
+}

@@ -1,0 +1,23 @@
+td{
+  border: 5px solid red;
+  height: 150px;
+  width: 150px;
+}
+table{
+  text-align: center;
+  font-size: 100px;
+  margin: auto;
+}
+
+.container .jumbotron{
+  background: green;
+  color: white;
+}
+#b{
+  background: yellow;
+  color: blue;
+  height: 80px;
+  width: 200px;
+  font-size: 2.8rem;
+
+}

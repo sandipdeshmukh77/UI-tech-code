@@ -1,0 +1,34 @@
+<!doctype html>
+<head>
+<h1>National award 2020</h1>
+<table border="1">
+  <thead>
+	<th>Name of Receiver</th>
+	<th>for the work</th>
+	<th>photo</th>
+	<th>link</th>
+  </thead>
+  <tr>
+  <td>Ratan Tata</td>
+  <td>social work</td>
+  <td><img src=ratantata.jpg width="300" height="200"></td>
+  <td><a href="https://en.wikipedia.org/wiki/Ratan_Tata">click here</a></td>
+  </tr>
+  <tr>
+  <td>Azim Premji</td>
+  <td>Education Revolution</td>
+  <td><img src=AzimPremji.jpg width="300" height="200"></td>
+  <td><a href="https://en.wikipedia.org/wiki/Azim_premji">click here</a></td>
+  </tr>
+  <tr>
+  <td>Narayan murthy</td>
+  <td>sofware industry Revolution</td>
+  <td><img src=NarayanaMurthy.jpg width="300" height="200"></td>
+  <td><a href="https://en.wikipedia.org/wiki/Narayan_murthy">click here</a></td>
+  </tr>
+
+</table>
+
+
+
+</head>

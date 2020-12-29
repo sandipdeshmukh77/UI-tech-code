@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>application form</title>
+  </head>
+  <body>
+    <h1>Application Form</h1>
+    <form action="thankyou.html" method="post">
+      <label for="name">Name</label>
+      <input id="name" type="text" name="username" placeholder="enter name" required><br><br>
+
+      <label for="age">Age</label>
+      <input id="age" type="text" name="age" placeholder="enter age" required><br><br>
+
+      <label for="addr">Address</label>
+      <input id="addr" type="text" name="address" placeholder="enter address" required><br><br>
+
+      <h2>Do you want to take trainer</h2>
+
+      <input id="y" type="radio" name="Trainer" value="yes" required>
+      <label for="y">Yes</label>
+
+      <input id="n" type="radio" name="Trainer" value="no" required>
+      <label for="n">No</label>
+
+
+      <h2>check the following services that you want to take</h2>
+      <input type="checkbox" name="service" value="Trainer" id=t >
+      <label for="t">Trainer</label>
+
+      <input type="checkbox" name="service" value="yoga" id=yt >
+      <label for="yt"> Yoga Trainer</label>
+
+      <input type="checkbox" name="service" value="cardio" id=crd >
+      <label for="crd">Cardio</label> <br>
+
+      <h2>Chose the trainer from following list</h2>
+      <select  name="trainer">
+        <option value="sandip deshmukh">Sandip Deshmukh</option>
+        <option value="vikram bhatia">Vikram Bhatia</option>
+        <option value="doctor panda">Doctor Panda</option>
+        <option value="Satish walia">Satish Walia</option>
+      </select>
+      <h2>Please Provide your suggestion regarding any other service</h2>
+      <textarea name="feedback" rows="8" cols="80" required></textarea>
+      <input type="submit" value="Register">
+
+
+    </form>
+
+  </body>
+</html>
